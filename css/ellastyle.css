@@ -1,0 +1,40 @@
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+#header {
+    background-color: yellow;
+}
+
+.tag {
+    background-color: lightblue;
+}
+/* ELLAS ERGAENZUNGEN */
+p {
+
+    font-family: Arial;
+  /* Schriftart Arial wie bei Fasnacht.ch*/
+    font-size: 12px;
+  /* grösse wie bei Fasnacht.ch */
+    color: black;
+  
+  }
+
+h1 {
+
+    font-family: Arial;
+ 
+    font-size: 24px;
+    font-weight: bold;
+ 
+    color: rgb(204, 0, 255);
+ 
+ }
+
+ 
